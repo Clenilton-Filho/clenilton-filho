@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello There! I’m a student of Systems Analysis and Development and I’m focusing on web development now, but learning about other areas too!</p>
+<p align="left">Hello There! I’m a student of Systems Analysis and Development and I’m focusing on Back-End for now, but learning about other areas too!</p>
 
 ###
 
@@ -43,16 +43,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<h2 align="left">Stats:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clenilton-filho&hide=jupyter%20notebook&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clenilton-filho&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
-
-###
