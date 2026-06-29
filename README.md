@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello There! I’m a student of Systems Analysis and Development and I’m focusing on Back-End for now, but learning about other areas too!</p>
+<p align="left">Hello there! I'm a Systems Development Intern at Ministério Público do Estado do Ceará (MPCE) pursuing a degree in Systems Analysis and Development, currently focusing on back-end development while also exploring other areas of software development.</p>
 
 ###
 
